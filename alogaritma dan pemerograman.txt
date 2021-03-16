@@ -4,3 +4,4 @@ Biodata
 -alamat : kecamatan kajang, Kab Bulukumba
 -nim : 200205602028
 -prodi : teknik elektronika D4
+-kampus : universitas negeri makassar
